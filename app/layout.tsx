@@ -7,7 +7,7 @@ import { Toaster } from '@/components/ui/toaster';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'TechFusion AI | Software Consultancy',
+  title: 'Favlinksoftwares | Software Consultancy',
   description: 'Transforming businesses through AI integration and custom software solutions',
 };
 
